@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @lobiyal
 - 👀 I’m interested in coding 
 - 🌱 I’m currently learning java
-- 💞️ I’m looking to collaborate on devlopment
+- 💞️ I’m looking to collaborate on Devlopment
 - 📫 How to reach me https://github.com/lobiyal
 
 <!---
